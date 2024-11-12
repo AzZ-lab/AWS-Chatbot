@@ -1,6 +1,6 @@
 ## Project #3: Integrate Amazon Lex ChatBot with Facebook Messenger 
 
-In this project, you'll be integrating an Amazon Lex ChatBot with Facebook Messenger to create an interactive chat experience for users.
+In this project, we will be integrating an Amazon Lex ChatBot with Facebook Messenger to create an interactive chat experience for users.
 
 ### Step #1: Create an Amazon Lex ChatBot
 - Sign in to the AWS Management Console and open the Amazon Lex console.
